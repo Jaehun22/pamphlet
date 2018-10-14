@@ -8,8 +8,6 @@
 
 Linux kernel은 대규모 Open Source Project이다. 이 project의 버전관리를 위해 초기에는 BitKeeper라는 상용DVCS을 사용했었는데 2005년도에 이 BitKeeper의 무료사용이 제고되면서 리누스 토발즈의 주도로 Linux 개발 커뮤니티가 자체 VCS을 개발했는데 이게 바로 Git이다. 2005년부터 지금까지 주니오 하마노\(Junio Hamano\)가 소프트웨어의 유지보수를 맡고 있다. 깃은 GNU 일반 공중 사용 허가서 v2 하에 배포되는 자유 소프트웨어이다.
 
-
-
 | 원저자 | 리누스 토발즈 |
 | :--- | :--- |
 | 개발자 | 주니오 하마노, 리누스 토발즈 |
@@ -36,15 +34,11 @@ Git은 파일을 3가지 상태로 관리합니다.
 * Modified: 파일을 수정한 후 아직 로컬 데이터 베이스에 commit하지 않은 상태를 의미
 * Staged: 파일을 수정한 후 수정 할 파일을 곧 commit 할 것이라고 표시한 상태를 의미
 
-
-
 Git은 파일상태 관리와 더불어 3가지 영역을 사용합니다
 
 * Git directory : Git이 project의 메타 데이터와 객체 데이터베이스를 저장하는 곳을 의미한다. 다른말로 Local Repository라고 하며 만약 특정 폴더를 Git directory 로 설정하려면 git init명령을 이용하면 됩니다. Repository로 설정되면 .git이라는 숨김폴더가 생성되고 이 안에 Git관리 정보들이 생성됨
 * Staging Area: Git directory에 존재하며 단순한 파일입니다. 곧 commit할 파일에 대한 정보를 가지고 있게 됩니다.
 * Working directory: project의 특정 branch를 checkout한 내용이 들어있는 폴더
-
-
 
 ### Git으로 하는 작업의 기본 순서
 
@@ -53,8 +47,6 @@ Git은 파일상태 관리와 더불어 3가지 영역을 사용합니다
 * Staging Area에 있는 수정된 파일을 commit해서 Git directory에 영구적인 Snapshot으로 저장\(git commit\)
 
 ![](/assets/스크린샷 2018-10-14 오후 10.53.06.png)
-
-
 
 ![](/assets/스크린샷 2018-10-14 오후 10.53.15.png)
 
@@ -87,8 +79,6 @@ Git은 파일상태 관리와 더불어 3가지 영역을 사용합니다
 * 지형공간 분석 데이터 시각화
 * PDF 문서 뷰어
 * 각기 다른 패키지에서 공통 취약점 및 노출로 알려진 보안 경보
-
-
 
 
 
