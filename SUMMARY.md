@@ -12,7 +12,6 @@
 * [오픈소스의 역사](history-of-opensource.md)
   * [1980년대 이전의 역사](history-of-opensource/1980b144-b300-c774-c804-c758-c5ed-c0ac.md)
   * [1980년대의 역사](history-of-opensource/1980b144-b300-c758-c5ed-c0ac.md)
-    * [자유 소프트웨어 운동](history-of-opensource/1980b144-b300-c758-c5ed-c0ac/c790-c720-c18c-d504-d2b8-c6e8-c5b4-c6b4-b3d9.md)
   * [1990년대의 역사](history-of-opensource/1990b144-b300-c758-c5ed-c0ac.md)
   * [현대](history-of-opensource/2000b144-b300-c758-c5ed-c0ac.md)
     * [Git](history-of-opensource/2000b144-b300-c758-c5ed-c0ac/git.md)
