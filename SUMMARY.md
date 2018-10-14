@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [오픈소스의 소개](introduction-of-opensource.md)
   * [오픈소스 vs 자유소프트웨어](introduction-of-opensource/c624-d508-c18c-c2a4-c758-c815-c758.md)
-  * 오픈소스의 장단점
+  * [오픈소스의 장단점](introduction-of-opensource/c624-d508-c18c-c2a4-c758-c7a5-b2e8-c810.md)
   * [오픈소스 사용추세](introduction-of-opensource/c624-d508-c18c-c2a4-c0ac-c6a9-cd94-c138.md)
   * [오픈소스 라이선스](introduction-of-opensource/c624-d508-c18c-c2a4-b77c-c774-c120-c2a4.md)
   * [주요 인물](introduction-of-opensource/c8fc-c694-c778-bb3c.md)
