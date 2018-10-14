@@ -9,6 +9,7 @@
   * [오픈소스 사용추세](introduction-of-opensource/c624-d508-c18c-c2a4-c0ac-c6a9-cd94-c138.md)
   * [오픈소스 라이선스](introduction-of-opensource/c624-d508-c18c-c2a4-b77c-c774-c120-c2a4.md)
     * [라이선스 종류](introduction-of-opensource/c624-d508-c18c-c2a4-b77c-c774-c120-c2a4/b77c-c774-c120-c2a4-c885-b958.md)
+    * [라이선스 비교](introduction-of-opensource/c624-d508-c18c-c2a4-b77c-c774-c120-c2a4/b77c-c774-c120-c2a4-be44-ad50.md)
 * [오픈소스의 역사](history-of-opensource.md)
   * [1980년대 이전의 역사](history-of-opensource/1980b144-b300-c774-c804-c758-c5ed-c0ac.md)
   * [1980년대의 역사](history-of-opensource/1980b144-b300-c758-c5ed-c0ac.md)
