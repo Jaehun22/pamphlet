@@ -11,4 +11,5 @@
   * [1980년대의 역사](history-of-opensource/1980b144-b300-c758-c5ed-c0ac.md)
   * [1990년대의 역사](history-of-opensource/1990b144-b300-c758-c5ed-c0ac.md)
 * 된겨??
+* 된거지??
 
