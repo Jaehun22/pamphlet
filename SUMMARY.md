@@ -20,5 +20,4 @@
     * [Chrome OS](history-of-opensource/2000b144-b300-c758-c5ed-c0ac/google.md)
     * [주요 인물](history-of-opensource/2000b144-b300-c758-c5ed-c0ac/c8fc-c694-c778-bb3c.md)
 * [참고문헌](cc38-ace0-bb38-d5cc.md)
-* 수림아 이거 보여??
 
