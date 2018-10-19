@@ -12,12 +12,11 @@
 * ##### GNU - [http://www.econote.co.kr/main/view\_post.asp?post\_seq\_no=23725](http://www.econote.co.kr/main/view_post.asp?post_seq_no=23725)
 * ##### GNU 프로젝트 - [https://ko.wikipedia.org/wiki/GNU](https://ko.wikipedia.org/wiki/GNU)
 * ##### FSF - [https://en.wikipedia.org/wiki/Free\_Software\_Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-* ##### Linux - [https://ko.wikipedia.org/wiki/리눅스](https://ko.wikipedia.org/wiki/리눅스,	https://en.wikipedia.org/wiki/Linux)
-* ##### Git - [https://en.wikipedia.org/wiki/Git,	https://git-scm.com](https://en.wikipedia.org/wiki/Git,	https://git-scm.com)
+* ##### FSF의 자유 의미 - [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
+* ##### Linux - [https://ko.wikipedia.org/wiki/리눅스](https://ko.wikipedia.org/wiki/리눅스,    https://en.wikipedia.org/wiki/Linux)
+* ##### Git - [https://en.wikipedia.org/wiki/Git,    https://git-scm.com](https://en.wikipedia.org/wiki/Git,    https://git-scm.com)
 * ##### Android - [https://ko.wikipedia.org/wiki/안드로이드\_\(운영\_체제\)](https://ko.wikipedia.org/wiki/안드로이드_%28운영_체제%29)
 * ##### Chrome OS - [https://en.wikipedia.org/wiki/Chrome\_OS](https://en.wikipedia.org/wiki/Chrome_OS)
-
 * ##### 리처드 스톨만 - [https://ko.wikipedia.org/wiki/리처드\_스톨먼](https://ko.wikipedia.org/wiki/리처드_스톨먼)
 * ##### 리누스 토르발스 - [https://en.wikipedia.org/wiki/Linus\_Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 * ##### 에릭 S 레이몬드 - [https://en.wikipedia.org/wiki/Eric\_S.\_Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
